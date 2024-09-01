@@ -79,10 +79,10 @@ D) To enhance Python performance on your system
 
 What is the first step to install MySQL on Windows?
 
-A) Download MySQL Shell
-**`[x] B) Download MySQL Installer from the official website`**
-C) Install MySQL Workbench
-D) Set up a root password
+<!-- A) Download MySQL Shell -->
+B) Download MySQL Installer from the official website
+<!-- C) Install MySQL Workbench
+D) Set up a root password -->
 
 What setup type should you choose for a custom MySQL installation?
 
